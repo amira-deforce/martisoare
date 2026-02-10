@@ -1,0 +1,32 @@
+!!important: 
+contine: martisoare_v1_fit4u
+	 cote_martisoare_v1_fit4u
+
+lipsesc: materialele (nu am experienta cu materialele de imprimare 3d, le las la latitudinea proiectantului), cartonasele (le fac si uploadez separat).
+
+II. FIT4U- FITNESS
+
+martisor sportiva cu ganter-inima
+	forma: neregulata, femeie
+ 	dimensiuni: vezi cote, grosime 2,5 mm.
+ 	explicatie: este un martisor conceput pentru a arata recunostinta femeilor care merg la sala. ganterul 	are forma de inima pentru a simboliza acest lucru si mai tare
+
+2. martisor cu om care ridica o bara
+	forma: neregulata
+	dimensiuni: vezi cote, grosime 2,5 mm.
+	explicatie: acest martisor este universal, aratand sinteza firmei (fitness-ul) si recunostinta
+
+3. martisor cu greutate (cu sau fara model de inima)
+	forma: circulara
+	dimensiuni: diametru de 40 mm., grosime 2,5 mm.; in rest vezi cote
+	explicatie: acest model ofera personalitate salii de fitness si este tot odata un simbol al puterii, dragostei pt sport
+
+4. martisor cu gantera si ghiocei
+	forma: inima, gantera
+	dimensiuni: vezi cote, grosime 2,5 mm.
+	explicatie: ghioceii reprezinta primavara, acest simbol este imbinat cu gantera si cu inima pentru a arata iubire, prospetime, putere si recunostinta
+
+5. martisor cu inima si sigla 
+	forma: inima
+	dimensiuni: vezi cote, grosime 2,5 mm.
+	explicatie: acesta imbina simbolul unei femei puternice cu dragostea si sigla firmei
